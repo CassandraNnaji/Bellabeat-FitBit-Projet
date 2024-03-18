@@ -17,6 +17,11 @@ I utilized FitBit Fitness Tracker Data (CC0: Public Domain), made available thro
 - Based on our insights, a significant portion of users exhibit sedentary behavior. To address this, we propose highlighting the watch's features in advertising, emphasizing its role in facilitating fitness and wellness goals. By showcasing its ability to track daily activity, sleep, and stress, users can better understand their habits and set achievable goals. For those embarking on a fitness journey, the watch serves as a valuable tool for tracking progress and adjusting behaviors to meet their goals. Our data suggests a positive correlation between activity level and calorie burn, reinforcing the watch's importance in promoting a healthier lifestyle.
 - For customers with or considering personal trainers, the watch offers valuable insights into their daily activity and sleep patterns beyond training sessions. This data allows trainers to better understand their clients' overall habits, bridging gaps in their knowledge and enhancing their coaching strategies.
 
+# Further Steps 
+- The dataset provided had limitations due to its small sample size of only 30 FitBit users. To obtain more comprehensive insights, I recommend collecting data from a larger and more diverse user population.
 
+- Conducting a survey to understand the duration of device usage per day would provide valuable insights into user behavior, particularly regarding activity levels.
+
+- Additionally, administering a survey to ascertain the reasons behind users' decision to purchase the device would be beneficial. Understanding the primary motivations behind purchases can inform targeted marketing strategies tailored to specific demographics.
 
 

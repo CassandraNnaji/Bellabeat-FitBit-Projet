@@ -1,4 +1,4 @@
-# Bellabeat-FitBit-Projet
+# Bellabeat-FitBit-Project
 
 # Overview 
 Bellabeat, a high-tech company specializing in health-focused smart products for women, aimed to analyze data from 30 FitBit users to gain insights into their usage patterns. The goal is to leverage these insights to drive growth and innovation within the company
